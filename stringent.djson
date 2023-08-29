@@ -12,7 +12,7 @@
    "basename": "H.psp8",
    "Z_val": 1.0,
    "l_max": 1,
-   "md5": "e7a8f1ed6708ad59e3d10d6acb85aa83",
+   "md5": "314bcaf03656e059fe5e18308886932b",
    "dfact_meV": 0.14080685886080432,
    "dfactprime_meV": 2.0746111661103823,
    "tags": [
@@ -162,13 +162,35 @@
     }
    }
   },
+  "O": {
+   "basename": "O-high.psp8",
+   "Z_val": 6.0,
+   "l_max": 2,
+   "md5": "6c2cdfc070712d2ac0fce59df913b723",
+   "dfact_meV": 1.4908891814367424,
+   "dfactprime_meV": 3.980639505568372,
+   "tags": [
+    "GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 52.0
+    },
+    "low": {
+     "ecut": 42.0
+    },
+    "normal": {
+     "ecut": 46.0
+    }
+   }
+  },
   "F": {
    "basename": "F.psp8",
    "Z_val": 7.0,
    "l_max": 2,
-   "md5": "a063172c6aab0d4517684fbcc7a2e87a",
-   "dfact_meV": 0.12988116113260653,
-   "dfactprime_meV": 0.6018042301952166,
+   "md5": "e7a8f1ed6708ad59e3d10d6acb85aa83",
+   "dfact_meV": 0.13596337183706386,
+   "dfactprime_meV": 0.4736614763059313,
    "tags": [
     " "
    ],
@@ -512,6 +534,28 @@
     }
    }
   },
+  "Mn": {
+   "basename": "Mn-sp-high.psp8",
+   "Z_val": 15.0,
+   "l_max": 2,
+   "md5": "ee27809fb42dc8e92a4948330a831c3c",
+   "dfact_meV": 0.879913469513667,
+   "dfactprime_meV": 0.7921930319249157,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 69.0
+    },
+    "low": {
+     "ecut": 61.0
+    },
+    "normal": {
+     "ecut": 65.0
+    }
+   }
+  },
   "Fe": {
    "basename": "Fe-sp-high.psp8",
    "Z_val": 16.0,
@@ -531,6 +575,50 @@
     },
     "normal": {
      "ecut": 69.0
+    }
+   }
+  },
+  "Co": {
+   "basename": "Co-sp-high.psp8",
+   "Z_val": 17.0,
+   "l_max": 2,
+   "md5": "53ab11fe04ac71fcc22ec5ee923fe5e7",
+   "dfact_meV": 3.542612296486709,
+   "dfactprime_meV": 4.13520161782902,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 56.0
+    },
+    "low": {
+     "ecut": 48.0
+    },
+    "normal": {
+     "ecut": 52.0
+    }
+   }
+  },
+  "Ni": {
+   "basename": "Ni-sp-high.psp8",
+   "Z_val": 18.0,
+   "l_max": 2,
+   "md5": "e660f7deaa595d0fc42e2e74ea2b2d2a",
+   "dfact_meV": 0.38903756599232103,
+   "dfactprime_meV": 0.4605473415802747,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 58.0
+    },
+    "low": {
+     "ecut": 48.0
+    },
+    "normal": {
+     "ecut": 52.0
     }
    }
   },
@@ -600,6 +688,28 @@
     }
    }
   },
+  "Ge": {
+   "basename": "Ge-spd-high.psp8",
+   "Z_val": 22.0,
+   "l_max": 2,
+   "md5": "d93ae05a44288b05a83dd176f2b53003",
+   "dfact_meV": 0.4082673613479715,
+   "dfactprime_meV": 0.7703039755614719,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 68.0
+    },
+    "low": {
+     "ecut": 56.0
+    },
+    "normal": {
+     "ecut": 62.0
+    }
+   }
+  },
   "As": {
    "basename": "As-spd-high.psp8",
    "Z_val": 23.0,
@@ -641,6 +751,28 @@
     },
     "normal": {
      "ecut": 52.0
+    }
+   }
+  },
+  "Br": {
+   "basename": "Br-d.psp8",
+   "Z_val": 17.0,
+   "l_max": 2,
+   "md5": "dec4dcb67c54bdc63531e77f5f7342a3",
+   "dfact_meV": 0.12519083748478405,
+   "dfactprime_meV": 0.3085184534947191,
+   "tags": [
+    " "
+   ],
+   "hints": {
+    "high": {
+     "ecut": 42.0
+    },
+    "low": {
+     "ecut": 34.0
+    },
+    "normal": {
+     "ecut": 38.0
     }
    }
   },
@@ -1018,6 +1150,28 @@
     }
    }
   },
+  "I": {
+   "basename": "I-d.psp8",
+   "Z_val": 17.0,
+   "l_max": 2,
+   "md5": "3853147f28d5b1312c65617d00b5c303",
+   "dfact_meV": 0.9191670699999248,
+   "dfactprime_meV": 2.150513827650854,
+   "tags": [
+    " "
+   ],
+   "hints": {
+    "high": {
+     "ecut": 44.0
+    },
+    "low": {
+     "ecut": 34.0
+    },
+    "normal": {
+     "ecut": 38.0
+    }
+   }
+  },
   "Xe": {
    "basename": "Xe.psp8",
    "Z_val": 8.0,
@@ -1037,6 +1191,28 @@
     },
     "normal": {
      "ecut": 35.0
+    }
+   }
+  },
+  "Cs": {
+   "basename": "Cs-sp.psp8",
+   "Z_val": 9.0,
+   "l_max": 3,
+   "md5": "2365bf3785702ed7e69a1417d00f47aa",
+   "dfact_meV": 0.07526698426115808,
+   "dfactprime_meV": 0.9523709139201493,
+   "tags": [
+    " "
+   ],
+   "hints": {
+    "high": {
+     "ecut": 28.0
+    },
+    "low": {
+     "ecut": 18.0
+    },
+    "normal": {
+     "ecut": 24.0
     }
    }
   },

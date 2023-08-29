@@ -162,6 +162,28 @@
     }
    }
   },
+  "O": {
+   "basename": "O.psp8",
+   "Z_val": 6.0,
+   "l_max": 2,
+   "md5": "53efa4611cf1d581a18f615e1ccbb85d",
+   "dfact_meV": 2.1819077241649008,
+   "dfactprime_meV": 5.840013457697187,
+   "tags": [
+    "GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 48.0
+    },
+    "low": {
+     "ecut": 36.0
+    },
+    "normal": {
+     "ecut": 42.0
+    }
+   }
+  },
   "F": {
    "basename": "F.psp8",
    "Z_val": 7.0,
@@ -510,6 +532,28 @@
     }
    }
   },
+  "Mn": {
+   "basename": "Mn-sp.psp8",
+   "Z_val": 15.0,
+   "l_max": 2,
+   "md5": "7050947593889f8dbdd109819ad2019a",
+   "dfact_meV": 0.7651719102971951,
+   "dfactprime_meV": 0.6880670181028107,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 54.0
+    },
+    "low": {
+     "ecut": 42.0
+    },
+    "normal": {
+     "ecut": 48.0
+    }
+   }
+  },
   "Fe": {
    "basename": "Fe-sp.psp8",
    "Z_val": 16.0,
@@ -529,6 +573,50 @@
     },
     "normal": {
      "ecut": 45.0
+    }
+   }
+  },
+  "Co": {
+   "basename": "Co-sp.psp8",
+   "Z_val": 17.0,
+   "l_max": 2,
+   "md5": "bf8d180af38a5ba877023b3006c49c10",
+   "dfact_meV": 2.982135198416456,
+   "dfactprime_meV": 3.453435583944786,
+   "tags": [
+    " GW"
+   ],
+   "hints": {
+    "high": {
+     "ecut": 54.0
+    },
+    "low": {
+     "ecut": 42.0
+    },
+    "normal": {
+     "ecut": 48.0
+    }
+   }
+  },
+  "Ni": {
+   "basename": "Ni-sp.psp8",
+   "Z_val": 18.0,
+   "l_max": 2,
+   "md5": "e869b0ba8d623849bf3cd2ed94d9e35f",
+   "dfact_meV": 0.2779515468343828,
+   "dfactprime_meV": 0.32934735091160816,
+   "tags": [
+    "GW "
+   ],
+   "hints": {
+    "high": {
+     "ecut": 55.0
+    },
+    "low": {
+     "ecut": 45.0
+    },
+    "normal": {
+     "ecut": 49.0
     }
    }
   },
@@ -595,6 +683,28 @@
     },
     "normal": {
      "ecut": 40.0
+    }
+   }
+  },
+  "Ge": {
+   "basename": "Ge-d.psp8",
+   "Z_val": 14.0,
+   "l_max": 2,
+   "md5": "b77d740414568208743bbf8577f93fb0",
+   "dfact_meV": 0.7376184403201369,
+   "dfactprime_meV": 1.3897789571182844,
+   "tags": [
+    ""
+   ],
+   "hints": {
+    "high": {
+     "ecut": 45.0
+    },
+    "low": {
+     "ecut": 35.0
+    },
+    "normal": {
+     "ecut": 39.0
     }
    }
   },
@@ -1079,6 +1189,28 @@
     },
     "normal": {
      "ecut": 35.0
+    }
+   }
+  },
+  "Cs": {
+   "basename": "Cs-sp.psp8",
+   "Z_val": 9.0,
+   "l_max": 3,
+   "md5": "2365bf3785702ed7e69a1417d00f47aa",
+   "dfact_meV": 0.07526698426115808,
+   "dfactprime_meV": 0.9523709139201493,
+   "tags": [
+    " "
+   ],
+   "hints": {
+    "high": {
+     "ecut": 28.0
+    },
+    "low": {
+     "ecut": 18.0
+    },
+    "normal": {
+     "ecut": 24.0
     }
    }
   },
